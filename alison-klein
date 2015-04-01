@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+		<head>
+			<title>The Society for News Design - SND</title>
+		</head>
+	<body>
+		<nav>
+			<li>
+				<a href="http://www.snd.org/about/">About</a>
+			</li>
+			<li>
+				<a href="http://www.snd.org/join/">Join</a>
+			</li>
+			<li>
+				<a href="http://www.snd.org/competitions/">Competitions</a>
+			</li>
+			<li>
+				<a href="http://www.snd.org/jobs/">Jobs</a>
+			</li>
+			<li>
+				<a href="http://www.snd.org/training/">Training</a>
+			</li>
+			<li>
+				<a href="http://www.snd.org/foundation/">Foundation</a>
+			</li>
+			<li>
+				<a href="http://www.snd.org/dc2015/">SND DC</a>
+			</li>
+		</nav>
+		<section id="main">
+			<h1 href="http://www.snd.org/2015/03/vote-now-the-36th-best-of-news-design-cover-contest/">Vote now: The 36th Best of News Design Cover Contest</h1>
+		</section>
+		<section id="more top stories">
+			<h2 href="http://www.snd.org/2015/03/10-things-to-know-for-snddc/">10 things to know for the #SNDDC as the workshop gets closer</h2>
+			<h2 href="http://www.snd.org/2015/03/design-for-your-ears-hear-about-npr-one-at-snddc/">Design for your ears: Hear about NPR One at #SNDDC</h2>
+			<h2 href="http://www.snd.org/2015/03/design-for-your-ears-hear-about-npr-one-at-snddc/">Andrea Levy on OpinionArt and her talk at #SNDDC</h2>
+		</section>	
+		
+		
+	
+
+		<section id="about">
+			<h3>About SND</h3>
+				<p>The Society for News Design (SND) is an international organization for news media professionals and visual communicators who create print, web, mobile publications and products. Our members art direct, design, edit, report, illustrate, make photos and video, visualize data and write code.</p>
+					<ul class="social tools">
+		</section>
+		<section id="recent jobs">
+			<h3>Recent Jobs</h3>
+				<ul id="jobs list">
+	        		<li> 
+	        			<a href="http://www.snd.org/jobs/view/interactive-designer-5/"><b>Interactive Designer</b>, Gannett Digital</a>
+	    			</li>
+	        		<li>
+	        			<a href="http://www.snd.org/jobs/view/graphics-and-data-journalist/"><b>Graphics and data journalist</b>,   Los Angeles Times</a>
+	    			</li>
+	        		<li>
+	        			<a href="http://www.snd.org/jobs/view/opinion-designer-the-boston-globe/"><b>Opinion designer, The Boston Globe</b>,   The Boston Globe</a>
+	    			</li>
+	        		<li>
+	        			<a href="http://www.snd.org/jobs/view/sports-designer-10/"><b>SPORTS DESIGNER</b>,   The New York Post</a>
+	    			</li>
+	        		<li>
+	        			<a href="http://www.snd.org/jobs/view/deputy-graphics-editor/"><b>Deputy Graphics Editor</b>,   Bay Area News Group</a>
+	    			</li>
+	        		</ul>
+	        		<p id="recent jobs footer"> <a href="http://www.snd.org/jobs">See all jobs »</a> | <a href="http://www.snd.org/jobs">Post a job »</a> 
+	    </section>
+	    <section id="SNDDC">
+			<h2 href="http://www.snd.org/dc2015/">SNDDC April 9-11 in Washington</a></h2>
+				<ul>	
+					<li class="speaker">
+						<h2>Roger Black/h2>
+							<h6>Insert Position Here</h6>
+					</li>
+					<li class="speaker">
+						<h2>Claire O’Neill</h2>
+							<h6>Visual Producer/Editor, NPR</h6>
+					</li>
+					<li class="speaker">
+						<h2>Kyle Ellis</h2>
+							<h6>Product Manager</h6>
+					</li>
+					<li class="speaker">
+						<h2>Brad Smith</h2>
+							<h6>Director of Photography</h6>
+					</li>
+				</ul>
+			 <button>Register</button>
+			 <h2 href="http://www.snd.org/dc2015/speakers">See our list of speakers</h2>
+		</section>
+		<aside>#SNDMakes: How might we better tell picture stories?</aside>
+
+		<section id="more stories">
+			<h3>More stories</h3>
+			<h2>A preview: Roger Black on #newstype at #SNDDC</h2>
+			<h6>By Courtney Kan | March 20th, 2015</h6>
+			<p>Legendary designer, art director and SND Lifetime Achievement Award recipientRoger Black</a> will launch a typography series, News Type at SNDDC next month. </p>
+			    
+			<h2>The designer’s guide to Washington during #SNDDC</h2>
+			<h6>By Jennifer Oprihory  | March 19th, 2015</h6>
+			<p>Coming to Washington for #SNDDC in April? We’ve got you covered on how to get around, where to experience the culture of the city, places to dine and drink, and a whole lot more.</p>
+
+			<h2>Cover 36: Who’s got it? Enter our cover competition</h2>
+			<h6>By Steven Komives  | March 17th, 2015</h6>
+			<p>Submit your cover design by Friday, March 27. We’ll post all the entrants here and give you a chance to vote on your favorite. The winning design will be the cover of the 36th edition of The Best of News Design™ annual.</p>
+			<p>See all stories</p>
+		</section>
+		<section>
+			<h3>Upcoming Events</h3>
+				<ul id="upcoming-events">
+                    <li>Apr 9 SNDDC: Type, student sessions + opening reception</li>
+                    <li>Apr 10 SNDDC: SNDDC: Keynotes, sessions + karaoke night</li>
+                    <li>Apr 11 SNDDC: Keynotes, sessions + annual awards</li>
+        		</ul>
+
+        	<h3>Join our mailing list</h3>
+       			<form><input type="email" placeholder="email address"></form>
+			<h3>Follow @snd</h3>
+			<p>Want a new gig? Positions at @Gannett @latimes @BostonGlobe @nypost and more on the #SNDjobs board. http://t.co/DjeZRnMDC3</p>
+				<ul>
+                    <li class="reply"></li>
+                   	<li class="retweet"></li>
+                    <li class="favorite"></li>
+                    <li>04:27 PM Apr 01</li>
+                </ul>
+            <p>Who will win World's Best-Designed? Join us at #SNDDC on April 11 to find out. Nominees: http://t.co/dClGlnoHet http://t.co/PA6jbCeeVO</p>
+				<ul>
+                    <li class="reply"></li>
+                   	<li class="retweet"></li>
+                    <li class="favorite"></li></a>
+                    <li>04:27 PM Apr 01</li>
+                </ul>
+        </section>
+
+		<footer>
+			<h3>Society for News Design</h3>
+			<p>The Society for News Design (SND) is an international organization for news media professionals and visual communicators who create print, web, mobile publications and products. Our members art direct, design, edit, report, illustrate, make photos and video, visualize data and write code. <a href="http://www.snd.org/about">Learn more »</a></p>
+			<h3>Typography provided by</h3>
+			<a href="http://www.typography.com/cloud/welcome/?affiliateID=504"><img src="http://www.snd.org/wp-content/themes/snd-wp-theme/style/img/hfj_snd_logo_300x100.png"></a>
+			<h3>Contact us</h3>
+			<p><strong>Society for News Design</strong><br>
+			424 E. Central Blvd., Suite 406<br>
+			Orlando, FL 32801<br>
+			O: (407) 420-7748<br>
+			F: (407) 420-7697<br><br>
+			Society for News Design,<br>
+			Copyright © 2015</p>
+			
+		</footer>
+	</body>
+</html>
